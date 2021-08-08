@@ -1,4 +1,4 @@
-# Shopping-Seller
+# Screen shot
 
 <img src = "https://user-images.githubusercontent.com/53982895/128647909-698b5470-cdab-4c1b-92fa-0221d36a5b4a.png" width = "200" height = "400"> , <img src = "https://user-images.githubusercontent.com/53982895/128647921-01570e61-e1eb-409e-b3b2-13ce7fb43624.png" width = "200" height = "400">
 <img src = "https://user-images.githubusercontent.com/53982895/128647922-4bbe79b4-f0da-4952-8c06-90bbca8204da.png" width = "200" height = "400"> , <img src = "https://user-images.githubusercontent.com/53982895/128647923-35b98f96-2e56-4f75-bb1c-cb637d71c510.png" width = "200" height = "400">
